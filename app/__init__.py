@@ -1,0 +1,2 @@
+"""LogiScope Analytics application package."""
+
