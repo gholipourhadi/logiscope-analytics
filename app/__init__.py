@@ -1,2 +1,1 @@
 """LogiScope Analytics application package."""
-
